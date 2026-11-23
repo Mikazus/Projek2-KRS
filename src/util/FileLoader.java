@@ -4,8 +4,8 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import model.MataKuliah;
-import strukturdata.CustomList;
-import strukturdata.Graph;
+import strukturData.CustomList;
+import strukturData.Graph;
 
 public class FileLoader {
 

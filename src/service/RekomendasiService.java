@@ -1,8 +1,8 @@
 package service;
 
 import model.MataKuliah;
-import strukturdata.CustomList;
-import strukturdata.Graph;
+import strukturData.CustomList;
+import strukturData.Graph;
 import util.FileLoader.DataMahasiswa;
 
 public class RekomendasiService {
